@@ -4,6 +4,20 @@
 
 > Book sale site
 
+### ✨ Demo
+
+> Home
+<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-home.png" />
+
+> Single Book
+<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-single.png" />
+
+> Register
+<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-register.png" />
+
+> Cart
+<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-cart.png" />
+
 ## Install
 
 ```sh
@@ -16,15 +30,37 @@ npm install
 npm start
 ```
 
-## Author
+## Authors
 
-👤 **Matias Carou, Nicolas Mancini, Luis Osorio, Paula Binimelis, Pilar Dubiau y Alejandro Osorio**
+👤 **Matías Carou**
 
 * Github: [@matiascarou](https://github.com/matiascarou)
+* LinkedIn: [@Matías Carou](https://www.linkedin.com/in/matiascarou)
 
-## Show your support
+👤 **Nicolás Mancini**
 
-Give a ⭐️ if this project helped you!
+* Github: [@ndmancini](https://github.com/ndmancini)
+* LinkedIn: [@Nicolás Mancini](https://linkedin.com/in/nicolás-mancini-33271627)
+
+👤 **Luis Osorio**
+
+* Github: [@Zocratexta](https://github.com/Zocratexta)
+* LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
+
+👤 **Paula Binimelis**
+
+* Github: [@PaulaBi](https://github.com/PaulaBi)
+* LinkedIn: [@Paula Binimelis](https://linkedin.com/in/paula-binimelis)
+
+👤 **Pilar Dubiau**
+
+* Github: [@pilardubiau](https://github.com/pilardubiau)
+* LinkedIn: [@Pilar Dubiau](https://linkedin.com/in/pilar-dubiau-618769102)
+
+👤 **Alejandro Rusinoff**
+
+* Github: [@adrianrusinoff](https://github.com/adrianrusinoff)
+* LinkedIn: [@Adrian Rusinoff](https://linkedin.com/in/alejandro-rusinoff-64114032)
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
