@@ -6,17 +6,7 @@
 
 ### ✨ Demo
 
-> Home
-<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-home.png" />
-
-> Single Book
-<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-single.png" />
-
-> Register
-<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-register.png" />
-
-> Cart
-<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo-cart.png" />
+<img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/e-commerce/master/public/demo.gif" />
 
 ## Install
 
