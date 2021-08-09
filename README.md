@@ -24,8 +24,8 @@ npm start
 
 👤 **Alejandro Rusinoff**
 
-* Github: [@adrianrusinoff](https://github.com/adrianrusinoff)
-* LinkedIn: [@Adrian Rusinoff](https://linkedin.com/in/alejandro-rusinoff-64114032)
+* Github: [@Alejandrorusinoff](https://github.com/Alejandrorusinoff)
+* LinkedIn: [@Alejandro Rusinoff](https://linkedin.com/in/alejandro-rusinoff-64114032)
 
 👤 **Matías Carou**
 
