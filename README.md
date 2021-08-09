@@ -22,6 +22,11 @@ npm start
 
 ## Authors
 
+👤 **Alejandro Rusinoff**
+
+* Github: [@adrianrusinoff](https://github.com/adrianrusinoff)
+* LinkedIn: [@Adrian Rusinoff](https://linkedin.com/in/alejandro-rusinoff-64114032)
+
 👤 **Matías Carou**
 
 * Github: [@matiascarou](https://github.com/matiascarou)
@@ -31,11 +36,6 @@ npm start
 
 * Github: [@ndmancini](https://github.com/ndmancini)
 * LinkedIn: [@Nicolás Mancini](https://linkedin.com/in/nicolás-mancini-33271627)
-
-👤 **Luis Osorio**
-
-* Github: [@Zocratexta](https://github.com/Zocratexta)
-* LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
 
 👤 **Paula Binimelis**
 
@@ -47,10 +47,10 @@ npm start
 * Github: [@pilardubiau](https://github.com/pilardubiau)
 * LinkedIn: [@Pilar Dubiau](https://linkedin.com/in/pilar-dubiau-618769102)
 
-👤 **Alejandro Rusinoff**
+👤 **Luis Osorio**
 
-* Github: [@adrianrusinoff](https://github.com/adrianrusinoff)
-* LinkedIn: [@Adrian Rusinoff](https://linkedin.com/in/alejandro-rusinoff-64114032)
+* Github: [@Zocratexta](https://github.com/Zocratexta)
+* LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This Proyect was generated with ❤️ by [grupo 2] in [Plataforma 5](https://plataforma5.la/ar/online)_
