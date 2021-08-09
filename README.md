@@ -53,4 +53,4 @@ npm start
 * LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
 
 ***
-_This Proyect was make with ❤️ by grupo 2 in [Plataforma 5](https://plataforma5.la/ar/online)_
+_This Project was make with ❤️ by grupo 2 in [Plataforma 5](https://plataforma5.la/ar/online)_
